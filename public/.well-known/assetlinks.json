@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "studio.ai.bitacoraderiego.twa",
+      "sha256_cert_fingerprints": [
+        "58:26:17:E1:67:14:D4:FD:98:2F:61:85:5A:7F:6E:5D:2C:6C:BD:BE:F8:7B:84:22:AF:66:E3:D7:43:80:FC:9C"
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "Bitácora de Riego",
+  "short_name": "Bitácora",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#021627",
+  "theme_color": "#042f4b",
+  "icons": [
+    {
+      "src": "/assets/aistudio/Firefly_RemoveBackground_a6414711.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Bitácora de Riego",
+  "description": "Seguimiento de plan alimentario y registro de riegos en la nube.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
